@@ -1,0 +1,15 @@
+info: {
+  username: 'Spiderman5',
+  email: 'spider5@gmail.com',
+  password: '$2b$10$dIxSveKxVu1I7MnN6eOQwOxUt8w6K2DqcgjhgXSv3CA685P9iHRRe',
+  _id: new ObjectId('681090a20fb2f2c0bd4aab18'),
+  __v: 0
+} {"timestamp":"2025-04-29T08:41:06.989Z"}
+error: error {"timestamp":"2025-04-29T08:47:12.911Z"}
+error: {
+  username: 'Spiderman7',
+  email: 'spider7@gmail.com',
+  password: '$2b$10$/ViHRN0fd.Xmu4AvFVE6m.lXf5orYVX5fPjaFdX5uqTSv9uqNl1q2',
+  _id: new ObjectId('6810927b4354dcd4687a8d0f'),
+  __v: 0
+} {"timestamp":"2025-04-29T08:48:59.500Z"}
